@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/myreactpage/static/css/main.f77a9deb.chunk.css",
+    "main.js": "/myreactpage/static/js/main.e4f46b47.chunk.js",
+    "main.js.map": "/myreactpage/static/js/main.e4f46b47.chunk.js.map",
+    "runtime-main.js": "/myreactpage/static/js/runtime-main.be7fbc31.js",
+    "runtime-main.js.map": "/myreactpage/static/js/runtime-main.be7fbc31.js.map",
+    "static/js/2.5d0772ed.chunk.js": "/myreactpage/static/js/2.5d0772ed.chunk.js",
+    "static/js/2.5d0772ed.chunk.js.map": "/myreactpage/static/js/2.5d0772ed.chunk.js.map",
+    "index.html": "/myreactpage/index.html",
+    "precache-manifest.17bb4e867ac2d77d46e552781a39a8c5.js": "/myreactpage/precache-manifest.17bb4e867ac2d77d46e552781a39a8c5.js",
+    "service-worker.js": "/myreactpage/service-worker.js",
+    "static/css/main.f77a9deb.chunk.css.map": "/myreactpage/static/css/main.f77a9deb.chunk.css.map",
+    "static/js/2.5d0772ed.chunk.js.LICENSE.txt": "/myreactpage/static/js/2.5d0772ed.chunk.js.LICENSE.txt",
+    "static/media/DL Logo.png": "/myreactpage/static/media/DL Logo.9b3422f8.png",
+    "static/media/GitHub.png": "/myreactpage/static/media/GitHub.17a6652f.png",
+    "static/media/OMDb api.png": "/myreactpage/static/media/OMDb api.f7a7d317.png",
+    "static/media/RPS new.png": "/myreactpage/static/media/RPS new.9185e737.png",
+    "static/media/collector game rick:morty.png": "/myreactpage/static/media/collector game rick:morty.da680720.png",
+    "static/media/daburger.png": "/myreactpage/static/media/daburger.9859b345.png",
+    "static/media/fromtheashes.png": "/myreactpage/static/media/fromtheashes.2dd304e8.png",
+    "static/media/funwithcss.png": "/myreactpage/static/media/funwithcss.23c72431.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be7fbc31.js",
+    "static/js/2.5d0772ed.chunk.js",
+    "static/css/main.f77a9deb.chunk.css",
+    "static/js/main.e4f46b47.chunk.js"
+  ]
+}
